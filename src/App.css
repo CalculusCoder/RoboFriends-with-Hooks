@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-image: linear-gradient(to right, rgb(255, 240, 200), rgb(127, 246, 255));
+}
